@@ -6,5 +6,6 @@
 - View Projects navigated to Work. Keyboard Enter opened the first native implementation disclosure. Tab exposed the visible skip link; Enter navigated to main.
 - Project screenshot loaded with a nonzero natural size. Resume is a one-page generated public copy: text checked to exclude phone and location, visually rendered and reviewed.
 - Reduced motion has a CSS override disabling smooth scrolling, transition and hover movement; OS-level reduced-motion emulation and real screen-reader review remain manual checks.
-- GitHub push succeeded. Netlify signed-in team is nesattar786; repository import lists only math-practice-app. personal_portfolio access must be added by the user before connected deployment.
-- No deployment or live portfolio verification is claimed yet. Canonical URL, sitemap and final live checks remain pending hosting.
+- GitHub push succeeded. User connected personal_portfolio to Netlify. GitHub CI passed for code commit 12cb0fe; Netlify published this commit from main.
+- Public deployment verified: https://nebraas-sattar-portfolio.netlify.app/. User made the site public. Unauthenticated HTTP requests returned 200 for homepage, PDF, screenshot, favicon, robots and sitemap; PDF and screenshot SHA-256 hashes matched local assets. Canonical URL confirmed in live HTML. Live project navigation, image loading and professional links inspected; no console errors/warnings observed. Single-page hash links require no routing rewrite.
+
