@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nebraas-sattar-portfolio.netlify.app/sitemap.xml
