@@ -14,3 +14,5 @@ Math case study: ages 7–12; four operations and difficulty settings; self-repo
 Delivery: supplied empty personal_portfolio GitHub repository; meaningful commits, no force pushes; Actions lint/typecheck/build; Netlify-compatible static configuration. Prefer public recruiter-accessible hosting connected to main. Hosting identity and authentication are unresolved until inspected.
 
 Acceptance: production build, lint and typecheck pass; desktop/mobile and keyboard review; links/assets work; no observed console errors; privacy review; pushed commit and reachable deployment verified before marking complete.
+
+Implementation status (2026-10-28): responsive site implemented, verified build and public-safe resume generated. See VERIFICATION.md. The supplied GPA is retained in the resume only; no newer value inferred. GitHub push verified. Existing Netlify account discovered; app integration currently exposes only math repository. User repository-access change is the remaining connected deployment blocker.
