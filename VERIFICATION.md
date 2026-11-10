@@ -15,3 +15,5 @@
 Classroom Survey deployment verified 2026-11-09: public portfolio serves /assets/index-3vMS6_h9.js matching the built asset; live browser shows the new card and correct demo link, with no observed console errors. Code commit: 7c9420d.
 
 2026-11-09 three-feature update: real public Hangman and Survey home screens captured without personal data. Exactly three featured sections, four supporting cards and unique demo/source labels verified in browser. Desktop panels visually reviewed; all three images loaded. At 390px, layout stacks into one column with no horizontal overflow (scroll width 375px). No console errors observed. Lint, TypeScript and production build passed; deployment pending.
+
+Three-feature deployment verified: public bundle index-BaJH4pAs.js matches the build; live browser shows exactly Math Practice App, Web-Based Hangman and Classroom Survey Web App featured panels, with all screenshots loaded. GitHub CI passed for c2fab51.
