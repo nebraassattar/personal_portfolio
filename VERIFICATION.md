@@ -11,3 +11,5 @@
 
 
 2026-11-09: Classroom Survey card verified against repository README. Demo returned HTTP 200. Lint, TypeScript and production build passed. Browser card and expanded keyboard disclosure reviewed at 400px viewport; no horizontal overflow (scroll width 385px) or observed console errors. Live deployment verification pending.
+
+Classroom Survey deployment verified 2026-11-09: public portfolio serves /assets/index-3vMS6_h9.js matching the built asset; live browser shows the new card and correct demo link, with no observed console errors. Code commit: 7c9420d.

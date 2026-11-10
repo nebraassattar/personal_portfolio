@@ -13,5 +13,6 @@ Completed: public Netlify deployment connected to main; production URL, metadata
 ## Classroom Survey addition (2026-11-09)
 - [x] C1 Verify repository features and demo address.
 - [x] C2 Verify card rendering, links and production checks.
-- [ ] C3 Push and verify automatic Netlify deployment.
+- [x] C3 Push and verify automatic Netlify deployment.
+
 
