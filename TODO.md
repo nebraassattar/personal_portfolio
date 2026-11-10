@@ -9,3 +9,9 @@
 - [x] P8 Deploy, verify live URL and commit, add canonical/sitemap, document final status.
 
 Completed: public Netlify deployment connected to main; production URL, metadata, resume, screenshot and discovery files verified. GitHub CI passed for deployed code commit 12cb0fe. No launch blockers. Optional follow-ups: OS reduced-motion and real screen-reader review. See VERIFICATION.md.
+
+## Classroom Survey addition (2026-11-09)
+- [x] C1 Verify repository features and demo address.
+- [x] C2 Verify card rendering, links and production checks.
+- [ ] C3 Push and verify automatic Netlify deployment.
+
