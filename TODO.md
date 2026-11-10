@@ -16,3 +16,9 @@ Completed: public Netlify deployment connected to main; production URL, metadata
 - [x] C3 Push and verify automatic Netlify deployment.
 
 
+
+## Three featured projects
+- [x] F1 Verify Hangman and survey content and URLs.
+- [x] F2 Capture real screenshots and review three matching responsive sections.
+- [ ] F3 Pass checks, push to main and verify public deployment.
+
